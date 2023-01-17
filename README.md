@@ -1,5 +1,3 @@
-# 24-Camera-Web-Server-ESP32
-
 # Introducción
 
 "CameraWebServer" es un sketch de ejemplo de Arduino para la placa ESP32CAM, que permite utilizar la cámara integrada en la placa para tomar fotos y transmitirlas a través de un servidor web. Una vez que el sketch está cargado en la placa ESP32CAM, se puede acceder a la cámara a través de un navegador web en un dispositivo conectado a la misma red Wi-Fi que la placa.
